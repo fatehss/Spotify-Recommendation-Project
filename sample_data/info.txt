@@ -1,2 +1,0 @@
-The following .edges files are some sample networks created using all playlists with more than 10 followers. You can use them in Gephi or some other graphing software to generate a visual representation of a network.
-
